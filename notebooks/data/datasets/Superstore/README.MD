@@ -1,11 +1,10 @@
 
-#### Superstore Dataset
+### Superstore Dataset
 
 This is a superstore dataset I created using the components of it
-
 latest version: /Superstore/data_prepared_with_tableau_prep/data_prep/orders_oct27_assigned_unique_productIDs.csv
 
-
+#### Data Prep
 Initial data was prepared in Tableau Prep Builder
 
 Cleaning steps for separate data sources:
@@ -39,5 +38,4 @@ Cleaning steps for separate data sources:
 
 
 After analyzing this data, a conflict with product IDs linking to different product names was investigated and a new version was created by assigning unique product IDs to each product ID - product Name pair based on this notebook:
-
 /Superstore/data_prepared_with_tableau_prep/data_prep/Version_Oct_27_Product_ID_Conflict_Investigation_and_New_ID_Assignments_(Superstore_Dataset).ipynb
