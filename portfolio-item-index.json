@@ -1,0 +1,132 @@
+[
+  {
+    "title": "Time Series Forecasting for Mobi Bike Data",
+    "description": "This notebook establishes and validates a robust, production-ready SARIMA model by effectively isolating complex patterns and reducing residuals to white noise; the tool is ready for retraining and deployment to support Mobi's 2026 strategy.",
+    "tags": [
+        "Time Series",
+        "SARIMA",
+        "Python",
+        "Databricks",
+        "pmdarima",
+        "statsmodels",
+        "Forecasting",
+        "EDA"      
+    ],
+    "project_links":{
+      "Notebook": "https://github.com/safakatakancelik/portfolio-public/blob/main/notebooks/timeseries_analysis_mobi_bikes_2025_trips/Time%20Series%20Forecasting%20-%20Mobi%20Bike%20Trips.ipynb"
+    }
+  },
+  {
+    "title": "Agentic Onboarding System",
+    "description": "This is an agentic onboarding system that adds an alternative to legacy registration forms, and allows users to register to a system with a natural conversation. The agent sits behind a regular API, helps generate chat messages and triggers API endpoint calls as tool calls based on the nature of the conversation.",
+    "tags": [
+      "Google Agent Development Kit (ADK)",
+      "Python",
+      "Flask",
+      "PostgreSQL",
+      "Supabase",
+      "Sheets API"
+    ],
+    "project_links": {
+      "GitHub": "https://github.com/safakatakancelik/agentic_onboarding_google_agents_intensive_course_submission",
+      "Video": "https://www.youtube.com/watch?v=2P6P8uf3asw"
+    }
+  },
+  {
+    "title": "Cloud Data Movements and Visualization",
+    "description": "This project aims to demonstrate building end to end data pipelines. Starting from the point of recording the data, I move the data between different cloud services, emulate the structure of the medallion architecture concept, and visualize to provide insight.",
+    "tags": [
+      "Sheets",
+      "Fivetran",
+      "Azure",
+      "Blob Storage",
+      "CosmosDB",
+      "Azure Data Factory",
+      "Power BI"
+    ],
+    "project_links": {
+      "Project Writeup": "https://docs.google.com/document/d/1fJT28bAA30F12rHdLlKhWV3Daq_5JUD39OdHKwlcxcU/edit?tab=t.0"
+    }
+  },
+  {
+    "title": "Mall Customers Segmentation",
+    "description": "Applied unsupervised ML modeling to the Mall Customers dataset to uncover data-driven personas to guide potential decisions. Ran a full Python workflow—EDA, outlier removal, feature scaling, elbow method and silhouette analysis to select appropriate k value, built a K-Means clustering model and a reproducable notebook with mainly pandas and scikit-learn.",
+    "tags": [
+      "Python",
+      "Machine Learning",
+      "Data Analysis",
+      "K-Means",
+      "Clustering",
+      "Pandas",
+      "Scikit-learn",
+      "Jupyter Notebook",
+      "GitHub"
+    ],
+    "project_links": {
+      "GitHub": "https://github.com/safakatakancelik/portfolio-public/blob/main/notebooks/mall_customers_segmentation.ipynb"
+    }
+  },
+  {
+    "title": "HmmSpeak",
+    "description": "A language learning app helping people practice speaking in person with a partner. The prototype app listens to the conversation in real time, transcribes it, builds a conversation context and provides suggestions based on the dialogue. Users should continue their dialogue unless they get stuck and need suggestions to continue the conversation. Developed while participating to the Build Your AI App in 6 Weeks program of Vancouver AI Meetup (VAM)",
+    "tags": [
+      "Flask",
+      "OpenAI API",
+      "TogetherAI",
+      "HuggingFace",
+      "Pyaudio",
+      "Prompting",
+      "Deployment"
+    ],
+    "project_links": {
+      "Live Demo": "https://huggingface.co/spaces/SatakanC/hmmspeak00"
+    }
+  },
+  {
+    "title": "Cloud Gourmet (Database Design)",
+    "description": "Database design for a Cloud Gourmet meal kit subscription service. The database allows managing customer information, meal preferences, subscription plans, deliveries, discounts, and is open for extension.",
+    "tags": [
+      "SQL",
+      "pgAdmin"
+    ],
+    "project_links": {
+      "ER Diagram": "https://github.com/safakatakancelik/portfolio-public/blob/main/database_designs/CloudGourmet/ERD_cloud_gourmet.png"
+    }
+  },
+  {
+    "title": "Book Cafe \n (Database Design)",
+    "description": "Database design for a Book Cafe service. The database allows managing customer information, book inventory, orders, suppliers and contracts.",
+    "tags": [
+      "SQL",
+      "pgAdmin"
+    ],
+    "project_links": {
+      "ER Diagram": "https://github.com/safakatakancelik/portfolio-public/blob/main/database_designs/BookCafe/ERD_book_cafe.png"
+    }
+  },
+  {
+    "title": "Healthy Life Clinic (Database Design)",
+    "description": "Database design for a Healthy Life Clinic service. The database allows managing patient information, doctor information, appointments.",
+    "tags": [
+      "SQL",
+      "pgAdmin"
+    ],
+    "project_links": {
+      "ER Diagram": "https://github.com/safakatakancelik/portfolio-public/blob/main/database_designs/HealthyLife/ERD_healthy_life.png"
+    }
+  },
+  {
+    "title": "SQL Data Pull Strategy",
+    "description": "Strategy pattern implementation that is open to extension and allows pulling data from multiple SQL databases dynamically.",
+    "tags": [
+      "SQL",
+      "Strategy Pattern",
+      "abstract class",
+      "OOP",
+      "Python"
+    ],
+    "project_links": {
+      "GitHub": "https://github.com/safakatakancelik/SQL-DataPullStrategy-MultipleDatabases"
+    }
+  }
+]
