@@ -17,7 +17,7 @@
     }
   },
   {
-    "title": "Agentic Onboarding System",
+    "title": "Google 5-Day AI Agents Intensive Course Capstone: Onboarding Agent",
     "description": "This is an agentic onboarding system that adds an alternative to legacy registration forms, and allows users to register to a system with a natural conversation. The agent sits behind a regular API, helps generate chat messages and triggers API endpoint calls as tool calls based on the nature of the conversation.",
     "tags": [
       "Google Agent Development Kit (ADK)",
