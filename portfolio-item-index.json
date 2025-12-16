@@ -8,16 +8,7 @@
         "Loss Calculation",
         "Back Propagation",
         "Updating Parameters",
-        "Gradient Descent",
-        "Model Training",
-        "Fine-tuning",
-        "Learning rates",
-        "Overfitting-underfitting",
-        "Memorization",
-        "Over parameterization",
-        "Activation Functions and Derivatives",
-        "Numpy",
-        "Classification"
+        "Gradient Descent"
     ],
     "project_links":{
       "Notebook": "https://www.kaggle.com/code/safakatakancelik/neural-network-from-scratch-for-classification",
@@ -106,8 +97,8 @@
   },
 
   {
-    "title": "Tableau Dashboard: E-commerce Profitability Overview",
-    "description": "I used Tableau to create this dashboard allowing various overview of the orders of this e-commerce data with dynamic filters and visuals to help monitoring and decision making.",
+    "title": "Tableau Dashboard: Profitability Overview",
+    "description": "I used Tableau to create this dashboard allowing various overview of the orders of this superstore data with dynamic filters and visuals to help monitoring and decision making.",
     "tags": [
       "Tableau",
       "Dashboarding",
@@ -121,7 +112,7 @@
 
   {
     "title": "Tableau Dashboard Stories: Profitability Over 4 Years and Sub Product Categories",
-    "description": "I used Tableau to create dashboards and used them to generate data stories to reveal actionable insight for this e-commerce data on KPIs over 4 years and product sub-category profitabilities.",
+    "description": "I used Tableau to create dashboards and used them to generate data stories to reveal actionable insight for this superstore data on KPIs over 4 years and product sub-category profitabilities.",
     "tags": [
       "Tableau",
       "Dashboarding",
