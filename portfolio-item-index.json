@@ -1,5 +1,46 @@
 [
   {
+    "title": "Built a Neural Network from Scratch for Classification",
+    "description": "Built a neural network from scratch using and used it to solve a classification problem after fine-tuning its hyperparameters! For model implementation I only used numpy and learned immensely. After this project I have significantly improved confidence because now I know better on how the underlying mechanism works in addition to operating it well.",
+    "tags": [
+        "Neural Networks",
+        "Forward Propagation",
+        "Loss Calculation",
+        "Back Propagation",
+        "Updating Parameters",
+        "Gradient Descent",
+        "Model Training",
+        "Fine-tuning",
+        "Learning rates",
+        "Overfitting-underfitting",
+        "Memorization",
+        "Over parameterization",
+        "Activation Functions and Derivatives",
+        "Numpy",
+        "Classification"
+    ],
+    "project_links":{
+      "Notebook": "https://www.kaggle.com/code/safakatakancelik/neural-network-from-scratch-for-classification",
+      "Video": "https://www.youtube.com/watch?v=aa9DTiZon3k"
+    }    
+  },
+  {
+    "title": "AgentCon - Pizza Ordering Agent Workshop",
+    "description": "Built an agent that uses instructions, RAG, tool calling, MCP server integration to order a pizza from a hypothetical pizza store with a real API endpoint.",
+    "tags": [
+        "Agents",
+        "RAG",
+        "Tool Calling",
+        "MCP Servers",
+        "System Prompts",
+        "Microsoft Azure",
+        "Microsoft Foundry"
+    ],
+    "project_links":{
+      "GitHub": "https://github.com/safakatakancelik/agentcon-pizza-workshop-fork",
+    }    
+  },  
+  {
     "title": "Time Series Forecasting for Mobi Bike Data",
     "description": "This notebook establishes and validates a robust, production-ready SARIMA model by effectively isolating complex patterns and reducing residuals to white noise; the tool is ready for retraining and deployment to support Mobi's 2026 strategy.",
     "tags": [
@@ -33,8 +74,70 @@
     }
   },
   {
+    "title": "Customer Segmentation and Targeted Marketing Strategy",
+    "description": "Developed a customer segmentation model to categorize customers into distinct groups based on their purchasing behavior and personal characteristics. Used this model to recommend targeted marketing strategies for a retail company.",
+    "tags": [
+      "Customer Segmentation",
+      "Targeted Marketing Strategy",
+      "RFM analysis",
+      "EDA",
+      "Feature Engineering",
+      "Elbow Method",
+      "K-means clustering"
+    ],
+    "project_links": {
+      "Notebook": "https://github.com/safakatakancelik/portfolio-public/blob/main/notebooks/customer_segmentation_dea112.ipynb"
+    }
+  },
+
+
+  {
+    "title": "Looker Dashboard: Customer Churn Segmentation Results",
+    "description": "I used Looker to visualize the results of my earlier customer segmentation efforts as part of my coursework. Learned the ropes on Looker and feeling confident on building to solve business problems.",
+    "tags": [
+      "Looker",
+      "Dashboarding",
+      "Customer Segmentation",
+      "Targeted Marketing Strategy",
+    ],
+    "project_links": {
+      "Project Writeup": "https://lookerstudio.google.com/reporting/2fb4adf9-6c57-4e7f-8f6b-d8312e79933a/page/usudF"
+    }
+  },
+
+  {
+    "title": "Tableau Dashboard: E-commerce Profitability Overview",
+    "description": "I used Tableau to create this dashboard allowing various overview of the orders of this e-commerce data with dynamic filters and visuals to help monitoring and decision making.",
+    "tags": [
+      "Tableau",
+      "Dashboarding",
+      "Data Visualization",
+      "Data Storytelling"      
+    ],
+    "project_links": {
+      "Tableau Dashboard": "https://public.tableau.com/app/profile/safak.atakan.celik2818/viz/SuperstoreOrdersProfitabilityOverview/Dashboard"
+    }
+  },
+
+  {
+    "title": "Tableau Dashboard Stories: Profitability Over 4 Years and Sub Product Categories",
+    "description": "I used Tableau to create dashboards and used them to generate data stories to reveal actionable insight for this e-commerce data on KPIs over 4 years and product sub-category profitabilities.",
+    "tags": [
+      "Tableau",
+      "Dashboarding",
+      "Data Visualization",
+      "Data Storytelling"      
+    ],
+    "project_links": {
+      "4 year analysis story": "https://public.tableau.com/app/profile/safak.atakan.celik2818/viz/ProfitabilityIntelligenceandCustomerSegmentation/4YearOverview",
+      "Sub-Category analysis story": "https://public.tableau.com/app/profile/safak.atakan.celik2818/viz/ProfitabilityOverviewSub-Categories/Sub-CategoryProfitabilityAnalysis"
+    }
+  },
+
+
+  {
     "title": "Cloud Data Movements and Visualization",
-    "description": "This project aims to demonstrate building end to end data pipelines. Starting from the point of recording the data, I move the data between different cloud services, emulate the structure of the medallion architecture concept, and visualize to provide insight.",
+    "description": "This project aims to demonstrate building end to end data pipelines. Starting from the point of recording the data, I move the data between different cloud services, and visualized it. The goal of this project is to demonstrate usage of various services.",
     "tags": [
       "Sheets",
       "Fivetran",
