@@ -1,7 +1,24 @@
 [
+
+  {
+    "title": "Vector DB Explorer",
+    "description": "A vector database instance with an interface to ingest data for chunking and embedding, plot vectors, and execute keyword-match or vector similarity searches.",
+    "tags": [
+        "ChromaDB",
+        "Chunking",
+        "Embedding",
+        "Similarity Search",
+        "Visualization"
+    ],
+    "project_links":{
+      "GitHub": "https://github.com/safakatakancelik/Vector-DB-Explorer"
+    }    
+  },
+  
+
   {
     "title": "Built a Neural Network from Scratch for Classification",
-    "description": "Built a neural network from scratch using and used it to solve a classification problem after fine-tuning its hyperparameters! For model implementation I only used numpy and learned immensely. After this project I have significantly improved confidence because now I know better on how the underlying mechanism works in addition to operating it well.",
+    "description": "Built a neural network from scratch and used it to solve a classification problem after fine-tuning its hyperparameters! For model implementation I only used numpy and learned immensely. After this project I have significantly improved confidence because now I know better on how the underlying mechanism works in addition to operating it well.",
     "tags": [
         "Neural Networks",
         "Forward Propagation",
@@ -222,5 +239,22 @@
     "project_links": {
       "GitHub": "https://github.com/safakatakancelik/SQL-DataPullStrategy-MultipleDatabases"
     }
+  },
+  {
+    "title": "Talk With Your Files",
+    "description": "Early adopter Retrieval Augmented Generation (RAG) implementation with file upload support and adjustable parameters.",
+    "tags": [
+      "Python",
+      "Streamlit",
+      "Retrieval Augmented Generation (RAG)",
+      "Embeddings",
+      "Vector DB",
+      "Similarity Search",
+      "Chunking"
+    ],
+    "project_links": {
+      "GitHub": "https://github.com/safakatakancelik/TalkWithYourFiles/"
+    }
   }
+
 ]
