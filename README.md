@@ -1,7 +1,4 @@
-# Public Portfolio Documents
+# Public Portfolio - Safak Atakan Celik
 
-Please visit [www.satakanc.com](https://satakanc.com/) to view my portfolio.
-
-There you can have a clearer view of my portfolio, projects, and can chat with my assistant too!
-
-This repository is where I keep some of the public files to link on my actual portfolio website. Feel free to explore the raw repository as well.
+- Please visit [www.satakanc.com](https://satakanc.com/) for better review.
+- This repository is an index and storage for some of the things I do.
