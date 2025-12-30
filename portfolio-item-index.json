@@ -1,6 +1,23 @@
 [
 
   {
+    "title": "RAG and Evaluations",
+    "description": "An experimental autonomous RAG system evaluated with RAGAS framework on HotPotQA dataset. Demonstrates strong grounding behavior with identified improvement areas in context recall consistency and answer synthesis capabilities.",
+    "tags": [
+      "RAG",
+      "RAGAS",
+      "HotPotQA",
+      "Query Expansion",
+      "LLM-as-a-Judge",
+      "Autonomous Agentic System",
+      "Analysis"
+    ],
+    "project_links":{
+      "GitHub": "https://github.com/safakatakancelik/rag-and-evaluations"
+    }    
+  },
+
+  {
     "title": "Vector DB Explorer",
     "description": "A vector database instance with an interface to ingest data for chunking and embedding, plot vectors, and execute keyword-match or vector similarity searches.",
     "tags": [
