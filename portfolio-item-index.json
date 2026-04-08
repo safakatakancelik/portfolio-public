@@ -257,21 +257,5 @@
       "GitHub": "https://github.com/safakatakancelik/SQL-DataPullStrategy-MultipleDatabases"
     }
   },
-  {
-    "title": "Talk With Your Files",
-    "description": "Early adopter Retrieval Augmented Generation (RAG) implementation with file upload support and adjustable parameters.",
-    "tags": [
-      "Python",
-      "Streamlit",
-      "Retrieval Augmented Generation (RAG)",
-      "Embeddings",
-      "Vector DB",
-      "Similarity Search",
-      "Chunking"
-    ],
-    "project_links": {
-      "GitHub": "https://github.com/safakatakancelik/TalkWithYourFiles/"
-    }
-  }
 
 ]
