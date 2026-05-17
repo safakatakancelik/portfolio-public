@@ -1,5 +1,23 @@
 [
+  {
+    "title": "Attention From NumPy to PyTorch",
+    "description": "Bridged the gap between mathematical intuition and scalable code by building scaled dot product attention from scratch. Covers QKV matrix theory, the implementation of causal masks and finer details for LLM-style decoding.",
+    "tags": [
+      "Attention",
+      "Transformer",
+      "PyTorch",
+      "Causal Masking",
+      "NumPy",
+      "Matrix Calculus",
+      "Autoregressive Modeling",
+      "LLM Fundamentals"
 
+    ],
+    "project_links":{
+      "Notebook": "https://colab.research.google.com/github/safakatakancelik/portfolio-public/blob/main/notebooks/building_attention_from_scratch/Attention%20From%20NumPy%20to%20PyTorch.ipynb"
+    }    
+  },
+  
   {
     "title": "RAG and Evaluations",
     "description": "An experimental autonomous RAG system evaluated with RAGAS framework on HotPotQA dataset. Demonstrates strong grounding behavior with identified improvement areas in context recall consistency and answer synthesis capabilities.",
