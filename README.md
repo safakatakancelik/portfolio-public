@@ -6,6 +6,7 @@
 
 | Project | Description | Tech Stack / Tags | Links |
 | :--- | :--- | :--- | :--- |
+| **Talk With Your Files** | Open-source RAG app with LangChain & Streamlit, built before ChatGPT had file uploads.  | `RAG`, `chunking`, `embeddings`, `question-answering`, `similarity search`, `text processing` | [GitHub]([https://github.com/safakatakancelik/agentcon-pizza-workshop-fork](https://github.com/safakatakancelik/TalkWithYourFiles)) |
 | **Collaborative Data Framework** | Designed repository structure to boost agentic data science workflows using self-contained project workspaces. | `Agentic Workflows`, `Data Science`, `Repository Architecture`, `Automation` | [GitHub](https://github.com/safakatakancelik/Collaborative-Data-Framework) |
 | **RAG & Evaluations** | Autonomous RAG system evaluated with the RAGAS framework on the HotPotQA dataset for grounding analysis. | `RAG`, `RAGAS`, `HotPotQA`, `Query Expansion`, `LLM-as-a-Judge` | [GitHub](https://github.com/safakatakancelik/rag-and-evaluations) |
 | **Vector DB Explorer** | Vector database engine & GUI for document ingestion, chunking, embedding, vector plotting, and hybrid search. | `ChromaDB`, `Chunking`, `Embedding`, `Similarity Search`, `Visualization` | [GitHub](https://github.com/safakatakancelik/Vector-DB-Explorer) |
