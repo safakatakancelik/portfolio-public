@@ -10,10 +10,10 @@ A scheduled Databricks job runs every day. It pulls open postings from public AT
 
 ```mermaid
 flowchart LR
-    A[ATS APIs<br/>Greenhouse, Lever] --> B[Unity Catalog volumes<br/>raw JSONL]
+    A[ATS APIs<br/>] --> B[Unity Catalog volumes<br/>raw JSONL]
     B --> C[Bronze<br/>streaming tables, Auto Loader]
     C --> D[Silver<br/>deduplicated, unified schema]
-    D --> E[Gold<br/>current jobs, job events, run status]
+    D --> E[Gold<br/>marts e.g. job events]
     J{{Daily Databricks job}} -.schedules.-> A
     J -.runs.-> C
 ```
@@ -28,7 +28,7 @@ flowchart LR
 
 ![Recent runs](assets/02_recent_runs.png)
 
-**3. Pipeline DAG.** The unified transformations pipeline: raw volume files feed `config_log`, `jobs`, `job_sightings` and `scrape_log`, which feed `job_postings`, `job_events`, `jobs_current`, `board_runs` and `company_status`. The last run completed with no errors.
+**3. Pipeline DAG.** The unified transformations pipeline: raw volume files feed `config_log`, `jobs`, `job_sightings` and `scrape_log`, which feed `job_postings` of silver layer and `watchlist_history`, `job_events`, `jobs_current`, `board_runs` and `company_status` of gold layer. The last run completed with no errors.
 
 ![Pipeline DAG](assets/03_pipeline_dag.png)
 
